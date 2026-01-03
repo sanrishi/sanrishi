@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://github.com/sanrishi/sanrishi/blob/main/chat.svg)
 # 💫 About Me:
 💻 I enjoy working with: Python | JavaScript | Git & GitHub | Open-Source<br><br>🔍 Curious about: AI, backend development, open-source tools<br><br>🛠 Currently contributing to open-source and improving problem-solving skills<br><br>🎯 Goal: become a strong, reliable contributor that mentors love working with<br><br>☕ Powered by curiosity and lots of coffee<br><br>📫 Let’s connect: always open to learning, feedback, and collaboration
 
