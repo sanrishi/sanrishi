@@ -1,3 +1,4 @@
+# Hi, I'm Sanchit Rishi (@sanrishi)
 ### Hi there 👋
 ![](https://github.com/sanrishi/sanrishi/blob/main/chat.svg)
  
