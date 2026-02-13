@@ -1,4 +1,4 @@
-# Hi, I'm Sanchit Rishi (@sanrishi)
+# Hi, I'm Sanchit Rishi (@sanrishi from India,Punjab)
 ### Hi there 👋
 ![](https://github.com/sanrishi/sanrishi/blob/main/chat.svg)
  
